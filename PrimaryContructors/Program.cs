@@ -32,7 +32,6 @@ public class EmployeeNew(string firstName, string lastName, DateTime hireDate, d
 
 
 /// Dependency injection example for usage if Primary Constructors
-/// 
 public interface IService
 {
     object GetData();
